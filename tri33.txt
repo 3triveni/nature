@@ -1,0 +1,38 @@
+<html>
+
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+</style></head>
+<body>
+
+
+<div style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Altja_j%C3%B5gi_Lahemaal.jpg/1200px-Altja_j%C3%B5gi_Lahemaal.jpg)" alt="here is a image">
+<h1 align="center">AFFORESTATION</h1>
+
+<p style="font-size:20px;color:white"><i>*Over the last decade, the talk on global warming and climate change has dominated major events and conferences.Afforestation is the establishment of a forest or stand of trees (forestation) in an area where there was no previous tree cover. <br>*Many government and non-governmental organizations directly engage in afforestation programs to create forests and increase carbon capture. Afforestation is an increasingly sought-after method to fight climate concerns, as it is known to increase the soil quality and organic carbon levels into the soil, avoiding desertification.
+</i>
+</p>
+<ol style="font-size:20px;color:white">
+<h3>Advantages of Afforestation</h3>
+<li> Provide an alternative source of tree products
+</li>
+<li> Increased supply of trees that are in high demand
+</li>
+<li>Protection of natural forests</li>
+<li>Environmental benefits</li>
+<li> Value addition</li>
+</ol>
+<ul style="font-size:20px;color:white">
+<h3>Disadvantages of Afforestation</h3>
+<li>It comes with real opportunity costs.</li>
+<li> It can affect biodiversity.</li>
+<li>It can bring some problems of ecotourism.</li>
+<br>
+<p><i>The climate of a region depends on a number of factors, especially latitude. A latitudinal band of the surface with similar climatic attributes forms a climate region. There are a number of such regions, ranging from the tropical climate at the equator to the polar climate in the northern and southern extremes. Weather is also influenced by the seasons, which result from the Earth's axis being tilted relative to its orbital plane. Thus, at any given time during the summer or winter, one part of the Earth is more directly exposed to the rays of the sun. This exposure alternates as the Earth revolves in its orbit. At any given time, regardless of season, the Northern and Southern Hemispheres experience opposite seasons.</i></p>
+<p><i>Geology is the science and study of the solid and liquid matter that constitutes the Earth. The field of geology encompasses the study of the composition, structure, physical properties, dynamics, and history of Earth materials, and the processes by which they are formed, moved, and changed. The field is a major academic discipline, and is also important for mineral and hydrocarbon extraction, knowledge about and mitigation of natural hazards, some Geotechnical engineering fields, and understanding past climates and environments.</i></p>
+<a href="https://www.google.com/url?q=https://talentio.io/home/dashboard;&amp;source=gmail-html&amp;ust=1666073485789000&amp;usg=AOvVaw28IvPvfNMgFCxQMqvjw3gP" target="_blank" rel="noreferrer">Click here</a>
+</ul>
+</div>
+</body>
+</html>
